@@ -70,3 +70,6 @@ workflow-scm-step 2.4
 workflow-step-api 2.9
 workflow-support 2.14
 yet-another-docker-plugin 0.1.0-rc36
+#
+# non default list
+ansible-plugin 0.6.2
